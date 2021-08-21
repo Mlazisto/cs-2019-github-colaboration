@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-2019-github-colaboration", "cs-2019-github-colaboration\cs-2019-github-colaboration.csproj", "{84360FB1-78F1-4B76-AF93-392B3E24244A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84360FB1-78F1-4B76-AF93-392B3E24244A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84360FB1-78F1-4B76-AF93-392B3E24244A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84360FB1-78F1-4B76-AF93-392B3E24244A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84360FB1-78F1-4B76-AF93-392B3E24244A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F204100F-8438-4797-9C68-44C557C1F904}
+	EndGlobalSection
+EndGlobal
